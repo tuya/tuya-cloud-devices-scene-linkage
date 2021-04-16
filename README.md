@@ -49,8 +49,11 @@ is used to realize the linkage between different devices.
 ### Procedure
 
 1. Log in to the [Cloud Development module on the Tuya IoT Platform](https://iot.tuya.com/cloud/).
+   ![img.png](img/create_project.png)
 2. Create a whole house smart project.
+   ![img.png](img/create_asset.png)
 3. In the **Associated Device** module in the project, a set of devices linked to the scene is associated.
+   ![img.png](img/relate_devices.png)
 
 ## Features
 

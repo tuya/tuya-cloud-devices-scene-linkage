@@ -41,8 +41,11 @@
 ### 开通方式
 
 1. 登录 **[IoT 工作台](https://iot.tuya.com/) > 云开发**。
+   ![img.png](img/create_project.png)
 2. 创建全屋智能项目。
+   ![img.png](img/create_asset.png)
 3. 在项目中的**关联设备**模块，关联场景联动的一套设备。
+   ![img.png](img/relate_devices.png)
 
 
 
