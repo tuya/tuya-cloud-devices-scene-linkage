@@ -137,5 +137,5 @@ You can provide feedback on your issue in **Github Issue** or [submit a ticket](
 
 ## License
 
-Tuya Android Home SDK Sample is available under the MIT license. For more information, see [License](https://github.com/tuya/tuya-cloud-controlling-device-demo/blob/master/LICENSE).
+Tuya Android Home SDK Sample is available under the MIT license. For more information, see [License](https://github.com/tuya/tuya-cloud-devices-scene-linkage/blob/master/LICENSE).
 
