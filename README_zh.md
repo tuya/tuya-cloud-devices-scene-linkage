@@ -146,4 +146,4 @@ tuya.cloud.auto.delete-uri=/v1.0/homes/%s/automations/%s
 LICENSE
 ---
 
-Tuya Android Home SDK Sample是在MIT许可下提供的。更多信息请参考[LICENSE](https://github.com/tuya/tuya-cloud-fingerbot-demo/blob/master/LICENSE)文件
+Tuya Android Home SDK Sample是在MIT许可下提供的。更多信息请参考[LICENSE](https://github.com/tuya/tuya-cloud-devices-scene-linkage/blob/master/LICENSE)文件
