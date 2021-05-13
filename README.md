@@ -141,7 +141,7 @@ Use **com.tuya.cloud.TuyaCloudControllingDeviceDemoApplication** to start the pr
 
 ### Experience use
 One-click request using postman
-![img.png](img/img.png)
+![img.png](img/img_en.png)
 
 ## Issue feedback
 
